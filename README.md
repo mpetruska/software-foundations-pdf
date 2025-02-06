@@ -4,6 +4,8 @@ Recipe for generating pdf versions of the Software Foundations book series. Whil
 intended to be viewed online and/or in an IDE that allow Coq development, sometimes it makes sense
 to read parts on an ebook reader offline.
 
+The original books can be viewed and downloaded at url https://softwarefoundations.cis.upenn.edu/.
+
 ## Usage
 
 1. Make sure [Nix](https://nixos.org/download/) is installed.
